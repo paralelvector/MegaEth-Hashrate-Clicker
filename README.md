@@ -64,7 +64,7 @@ $ forge --help
 $ anvil --help
 $ cast --help
 ```
-# Mega-Clicker: High-Frequency EVM Benchmarking
+# MegaEth Hashrate Clicker: High-Frequency EVM Benchmarking
 
 This project is a stress-test suite built for high-performance EVM environments (MegaETH/Monad/Reth). It demonstrates the capability of sub-second state updates using a localized "King of the Hill" smart contract.
 
