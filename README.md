@@ -74,7 +74,7 @@ This project is a stress-test suite built for high-performance EVM environments 
 * **Client:** Parallelized Bash script spawning 10+ concurrent consumers.
 
 ## Results
-* **Peak TPS:** ~86 TPS (Single-Wallet Nonce Bottlenecked)
+* **Real-world TPS:** ~10 TPS (throttled by single-wallet nonce contention)
 * **Latency:** <10ms local execution time.
 
 ## How to Run
